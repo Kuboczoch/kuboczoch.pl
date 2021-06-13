@@ -6,6 +6,7 @@ class MyDocument extends Document {
     return (
       <Html lang='en'>
         <Head>
+          <link rel='stylesheet' href='/styles/reset.css' />
           <link rel='preconnect' href='/fonts/pixel/px437_ibm_vga8-webfont.woff2' as='font' />
           <link rel='stylesheet' href='/styles/pixel.css' />
           <meta name='description' content='A Personal Website of Kuboczoch' />

@@ -1,16 +1,9 @@
 import { injectGlobal } from '@emotion/css'
 
-import resetStyle from './resetStyle'
 import animationsStyle from './animationsStyle'
 import theme from '../../../../assets/theme'
 
 const GlobalStyle = injectGlobal`
-  ${resetStyle};
-
-   html {
-     overflow-y: scroll;
-   }
-
    body {
      font-size: 24px;
      line-height: 1.2;
