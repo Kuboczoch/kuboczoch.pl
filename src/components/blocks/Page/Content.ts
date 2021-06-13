@@ -5,11 +5,10 @@ const Content = styled('main')`
   grid-area: content;
   min-height: 125px;
   z-index: 1;
-
-  background: ${(props) => props.theme.colors.white};
+  margin-top: 80px;
 
   @media (max-width: ${(props) => props.theme.breakpoints.sm}) {
-    margin-top: 125px;
+    margin-top: 20px;
   }
 `
 

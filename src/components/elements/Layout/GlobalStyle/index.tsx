@@ -11,8 +11,7 @@ const GlobalStyle = injectGlobal`
    }
 
    body {
-     font-family: 'Lato', sans-serif;
-     font-size: 16px;
+     font-size: 24px;
      line-height: 1.2;
      color: #333333;
      overflow-x: hidden;

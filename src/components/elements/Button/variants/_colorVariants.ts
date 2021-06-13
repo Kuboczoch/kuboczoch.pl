@@ -18,7 +18,7 @@ const colorVariants: colorVariant = {
     hover: 'primary',
     active: 'primary',
     focus: 'primary',
-    disabled: 'gray'
+    disabled: 'codGray'
   },
   secondary: {
     unset: 'secondary',
@@ -32,7 +32,7 @@ const colorVariants: colorVariant = {
     hover: 'transparent',
     active: 'transparent',
     focus: 'transparent',
-    disabled: 'gray'
+    disabled: 'codGray'
   }
 }
 

@@ -6,7 +6,7 @@ const palette: {
   [index in TPalletColor]: string
 } = {
   ...colors,
-  primary: colors.apple,
+  primary: colors.dandelion,
   secondary: colors.dodgerBlue
 }
 

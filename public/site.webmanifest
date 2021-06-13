@@ -1,0 +1,15 @@
+{
+    "name": "Kuboczoch website",
+    "short_name": "Kuboczoch website",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#1c1c1c",
+    "background_color": "#1c1c1c",
+    "start_url": "https://kuboczoch.pl",
+    "display": "standalone"
+}

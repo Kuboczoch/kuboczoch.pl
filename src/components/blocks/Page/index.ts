@@ -9,7 +9,8 @@ const Page = styled('div')`
   min-height: 100vh;
   width: 100%;
 
-  background: ${(props) => props.theme.colors.solitude};
+  background: ${(props) => props.theme.colors.codGray};
+  color: ${(props) => props.theme.colors.gallery};
 
   grid-template-columns: auto;
   grid-template-areas:
