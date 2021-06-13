@@ -8,6 +8,10 @@ const TypographyH1 = styled('h1')`
   line-height: 0.9;
   text-transform: uppercase;
   font-family: Pixel, monospace;
+
+  @media (max-width: ${(props) => props.theme.breakpoints.sm}) {
+    font-size: 3em;
+  }
 `
 
 export default TypographyH1

@@ -8,7 +8,7 @@
       "type": "image/png"
     }
   ],
-  "start_url": ".",
+  "start_url": "https://www.kuboczoch.pl",
   "display": "standalone",
   "theme_color": "#1C1C1C",
   "background_color": "#FFD866"

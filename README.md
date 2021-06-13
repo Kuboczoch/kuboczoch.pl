@@ -1,4 +1,4 @@
-# kuboczoch.pl
+# www.kuboczoch.pl
 
 Personal website
 
